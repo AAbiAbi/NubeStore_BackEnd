@@ -1,5 +1,5 @@
 elasticsearch:
-  address: "http://10.138.0.2:9200"
+  address: "http://10.128.0.3:9200"
   username: "Abi"
   password: "12345Jxtsz"
 
